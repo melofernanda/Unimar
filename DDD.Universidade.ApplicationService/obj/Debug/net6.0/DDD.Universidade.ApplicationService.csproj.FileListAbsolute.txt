@@ -1,0 +1,329 @@
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.json
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.exe
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.deps.json
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.runtimeconfig.json
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfo.cs
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Universidade.ApplicationService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\scopedcss\bundle\DDD.Universidade.ApplicationService.styles.css
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CopyComplete
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\refint\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.genruntimeconfig.cache
+C:\Users\Aula\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\ref\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.json
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.exe
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.deps.json
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.runtimeconfig.json
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfo.cs
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Universidade.ApplicationService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\scopedcss\bundle\DDD.Universidade.ApplicationService.styles.css
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CopyComplete
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\refint\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.genruntimeconfig.cache
+C:\Users\Aula\Desktop\Daniel\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\ref\DDD.Universidade.ApplicationService.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.exe
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.deps.json
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.runtimeconfig.json
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfo.cs
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Universidade.ApplicationService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Universidade.ApplicationService.props
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Universidade.ApplicationService.props
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Universidade.ApplicationService.props
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\scopedcss\bundle\DDD.Universidade.ApplicationService.styles.css
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CopyComplete
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\refint\DDD.Universidade.ApplicationService.dll
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.genruntimeconfig.cache
+C:\Users\danie\source\repos\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\ref\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.json
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.exe
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.deps.json
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.runtimeconfig.json
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfo.cs
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Universidade.ApplicationService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\scopedcss\bundle\DDD.Universidade.ApplicationService.styles.css
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CopyComplete
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\refint\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.genruntimeconfig.cache
+C:\Users\Aula\Downloads\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\ref\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.json
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.exe
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.deps.json
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.runtimeconfig.json
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfo.cs
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Universidade.ApplicationService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\scopedcss\bundle\DDD.Universidade.ApplicationService.styles.css
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CopyComplete
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\refint\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.genruntimeconfig.cache
+C:\Users\Aula\Desktop\Sla\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\ref\DDD.Universidade.ApplicationService.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.Development.json
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.json
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.exe
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.deps.json
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.runtimeconfig.json
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.AssemblyReference.cache
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfoInputs.cache
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfo.cs
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CoreCompileInputs.cache
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cs
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cache
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Universidade.ApplicationService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Universidade.ApplicationService.props
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Universidade.ApplicationService.props
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Universidade.ApplicationService.props
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.pack.json
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.build.json
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.development.json
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\scopedcss\bundle\DDD.Universidade.ApplicationService.styles.css
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CopyComplete
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\refint\DDD.Universidade.ApplicationService.dll
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.genruntimeconfig.cache
+E:\6 SEMESTRE\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\ref\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\appsettings.json
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.exe
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.deps.json
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.runtimeconfig.json
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfo.cs
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Universidade.ApplicationService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Universidade.ApplicationService.props
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\scopedcss\bundle\DDD.Universidade.ApplicationService.styles.css
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CopyComplete
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\refint\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.genruntimeconfig.cache
+C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Universidade.ApplicationService\obj\Debug\net6.0\ref\DDD.Universidade.ApplicationService.dll

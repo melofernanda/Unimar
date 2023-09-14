@@ -1,4 +1,4 @@
-﻿using DDD.Infra.MemoryDb.Interfaces;
+﻿using DDD.Infra.SQLServer.Interfaces;
 using DDD.Unimar.Domain.Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

@@ -103,3 +103,78 @@ C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Infra.Memor
 C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
 C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
 C:\Users\Aula\Desktop\Tópicos Avançados\PlataformaUniversidade\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.deps.json
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.AssemblyReference.cache
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfoInputs.cache
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.AssemblyInfo.cs
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.csproj.CopyComplete
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\refint\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.MemoryDb\obj\Debug\net6.0\ref\DDD.Infra.MemoryDb.dll

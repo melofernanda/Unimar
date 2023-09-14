@@ -1,5 +1,5 @@
-﻿using DDD.Infra.MemoryDb.Interfaces;
-using DDD.Infra.MemoryDb.Repositories;
+﻿using DDD.Infra.SQLServer.Interfaces;
+using DDD.Infra.SQLServer.Repositories;
 using DDD.Unimar.Domain.Entities;
 using DDD.Universidade.ApplicationService.Models;
 using Microsoft.AspNetCore.Http;

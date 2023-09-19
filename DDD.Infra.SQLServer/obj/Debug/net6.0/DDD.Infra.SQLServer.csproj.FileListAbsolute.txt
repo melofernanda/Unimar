@@ -1,0 +1,85 @@
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\Aula\Source\Repos\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+D:\6 SEMESTRE\marmotaSourceData\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\alexa\source\repos\marmotaDataSouce\marmota\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\alexa\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll

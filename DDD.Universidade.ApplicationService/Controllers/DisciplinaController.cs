@@ -1,5 +1,7 @@
-﻿using DDD.Infra.MemoryDb.Interfaces;
-using DDD.Infra.MemoryDb.Repositories;
+﻿using DDD.Infra.MemoryDb.Repositories;
+using DDD.Infra.SQLServer;
+using DDD.Infra.SQLServer.Interfaces;
+using DDD.Infra.SQLServer.Repositories;
 using DDD.Unimar.Domain.Entities;
 using DDD.Universidade.ApplicationService.Models;
 using Microsoft.AspNetCore.Http;
@@ -13,12 +15,16 @@ namespace DDD.Universidade.ApplicationService.Controllers
     public class DisciplinaController : ControllerBase
     {
         readonly IDisciplinaRepository _disciplinaRepository;
-        private object _alunoRepository;
-        private object _context;
+        readonly IAlunoRepository _alunoRepository;
+        readonly SqlContext _context;
 
-        public DisciplinaController(IDisciplinaRepository disciplinaRepository)
+        public DisciplinaController(IDisciplinaRepository disciplinaRepository, IAlunoRepository alunoRepository, SqlContext context)
         {
             _disciplinaRepository = disciplinaRepository;
+            _alunoRepository = alunoRepository;
+
+            _context = context;
+
         }
 
         [HttpGet]
@@ -89,12 +95,31 @@ namespace DDD.Universidade.ApplicationService.Controllers
 
 
         }
+        
+
         [HttpPost("adicionar-disciplina-aluno")]
         public IActionResult AdicionarDisciplinaAAluno([FromBody] AdicionarDisciplinaAlunoRequest request)
         {
             try
             {
-                _disciplinaRepository.AdicionarDisciplinaAAluno(request.DisciplinaId, request.AlunoId);
+                var aluno = _alunoRepository.GetAluno(request.AlunoId);
+                var disciplina = _disciplinaRepository.GetDisciplina(request.DisciplinaId);
+
+                if (aluno == null || disciplina == null)
+                {
+                    return BadRequest("Aluno ou disciplina não encontrados.");
+                }
+
+                var alunoDisciplina = new AlunoDisciplina
+                {
+                    Aluno = aluno,
+                    Disciplina = disciplina
+                };
+
+                // Adicione alunoDisciplina ao contexto de dados e salve as mudanças
+                _context.AlunoDisciplinas.Add(alunoDisciplina);
+                _context.SaveChanges();
+
                 return Ok("Disciplina associada ao aluno com sucesso");
             }
             catch (Exception ex)
@@ -102,7 +127,6 @@ namespace DDD.Universidade.ApplicationService.Controllers
                 return BadRequest($"Ocorreu um erro ao associar a disciplina ao aluno: {ex.Message}");
             }
         }
-
 
 
 

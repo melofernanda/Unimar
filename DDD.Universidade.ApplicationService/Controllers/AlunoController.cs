@@ -1,4 +1,4 @@
-﻿using DDD.Infra.MemoryDb.Interfaces;
+﻿using DDD.Infra.SQLServer.Interfaces;
 using DDD.Unimar.Domain.Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -38,6 +38,8 @@ namespace DDD.Universidade.ApplicationService.Controllers
             {
                 return BadRequest("Nome não pode ser menor que 3 ou maior que 30 caracteres");
             }
+
+            aluno.Disciplinas = null;
 
             _alunoRepository.InsertAluno(aluno);
             return CreatedAtAction(nameof(GetById), new {id = aluno.Id}, aluno);

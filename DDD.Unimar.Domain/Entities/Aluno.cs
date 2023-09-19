@@ -10,6 +10,10 @@ namespace DDD.Unimar.Domain.Entities
 {
     public class Aluno
     {
+        public Aluno()
+        {
+            Disciplinas = new List<Disciplina>();
+        }
         public int Id{ get; set; }
         public string Nome { get; set; }
         public string Sobrenome { get; set; }
@@ -21,6 +25,8 @@ namespace DDD.Unimar.Domain.Entities
         public bool Ativo { get; set; }
 
         public List<Disciplina> Disciplinas { get; set; }
+
+       
 
         //public List<Endereco> Enderecos { get; set; }
 

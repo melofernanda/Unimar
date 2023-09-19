@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 ﻿using DDD.Infra.MemoryDb.Repositories;
 using DDD.Infra.SQLServer;
 using DDD.Infra.SQLServer.Interfaces;
-=======
+
 ﻿using DDD.Infra.SQLServer.Interfaces;
->>>>>>> 0d82b0c65a21957ad8cf83aa817da4af690c6d40
+
 using DDD.Infra.SQLServer.Repositories;
 using DDD.Unimar.Domain.Entities;
 using DDD.Universidade.ApplicationService.Models;

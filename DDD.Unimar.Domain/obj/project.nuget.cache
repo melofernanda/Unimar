@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/XCDt3dDKK0ZOQEmlTnoCaPoLZM+rWDHFvsYttQOKRrsM/ZNy1MHytNRbuOUEdvFWQM+8D1T4LEe9p8ds7/YKw==",
+  "dgSpecHash": "LKoIYdNF2LBurQUooWzg09sBU/YmPceGR+T85SfXDciyh9T4WhTTrxWFh4ZzfqJeAWzbGnNBxQArFY/E1n9PlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aula\\source\\repos\\UnimarTopicosAvancados\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Aula\\Source\\Repos\\Unimar_TopicosAvancados\\DDD.Unimar.Domain\\DDD.Unimar.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -797,3 +797,13 @@ C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Universidade.ApplicationSe
 C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.pdb
 C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.genruntimeconfig.cache
 C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Universidade.ApplicationService\obj\Debug\net6.0\ref\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.AssemblyInfo.cs
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Universidade.ApplicationService\obj\Debug\net6.0\refint\DDD.Universidade.ApplicationService.dll
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Universidade.ApplicationService\obj\Debug\net6.0\DDD.Universidade.ApplicationService.pdb

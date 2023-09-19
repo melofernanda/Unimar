@@ -138,3 +138,15 @@ C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Unimar.Domain\obj\Debug\ne
 C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Unimar.Domain\obj\Debug\net6.0\refint\DDD.Unimar.Domain.dll
 C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Unimar.Domain\obj\Debug\net6.0\DDD.Unimar.Domain.pdb
 C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Unimar.Domain\obj\Debug\net6.0\ref\DDD.Unimar.Domain.dll
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Unimar.Domain\bin\Debug\net6.0\DDD.Unimar.Domain.deps.json
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Unimar.Domain\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Unimar.Domain\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Unimar.Domain\obj\Debug\net6.0\DDD.Unimar.Domain.csproj.AssemblyReference.cache
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Unimar.Domain\obj\Debug\net6.0\DDD.Unimar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Unimar.Domain\obj\Debug\net6.0\DDD.Unimar.Domain.AssemblyInfoInputs.cache
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Unimar.Domain\obj\Debug\net6.0\DDD.Unimar.Domain.AssemblyInfo.cs
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Unimar.Domain\obj\Debug\net6.0\DDD.Unimar.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Unimar.Domain\obj\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Unimar.Domain\obj\Debug\net6.0\refint\DDD.Unimar.Domain.dll
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Unimar.Domain\obj\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Unimar.Domain\obj\Debug\net6.0\ref\DDD.Unimar.Domain.dll

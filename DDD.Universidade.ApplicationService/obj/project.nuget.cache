@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TEvsqoiaf+wG6DdvXFO+rZnSq3P48/YcsdaYt9LR5PA+0/jiJOxFSwELMW7hBw2Zo1woA4i9Y4sKxrW6tEkvOw==",
+  "dgSpecHash": "z29xL3hAZZMJeM/VY3/heJ6ffKvQjErZLJjyHgAodelAjbM8D474ZZl9Dyc8GDCcQd0RiEVZ9JDn3JuyE769xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aula\\source\\repos\\UnimarTopicosAvancados\\DDD.Universidade.ApplicationService\\DDD.Universidade.ApplicationService.csproj",
+  "projectFilePath": "C:\\Users\\Aula\\Source\\Repos\\Unimar_TopicosAvancados\\DDD.Universidade.ApplicationService\\DDD.Universidade.ApplicationService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aula\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Aula\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

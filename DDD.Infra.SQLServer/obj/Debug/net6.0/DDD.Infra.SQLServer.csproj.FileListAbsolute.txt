@@ -83,3 +83,11 @@ C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\
 C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
 C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
 C:\Users\Aula\source\repos\UnimarTopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb

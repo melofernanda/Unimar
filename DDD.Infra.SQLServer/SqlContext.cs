@@ -14,6 +14,7 @@ namespace DDD.Infra.SQLServer
         public DbSet<Aluno> Alunos { get; set; }
 
         public DbSet<Disciplina> Disciplinas { get; set; }
+<<<<<<< HEAD
 
         public DbSet<AlunoDisciplina> AlunoDisciplinas { get; set; }
 
@@ -24,5 +25,7 @@ namespace DDD.Infra.SQLServer
         }
 
 
+=======
+>>>>>>> 0d82b0c65a21957ad8cf83aa817da4af690c6d40
     }
 }

@@ -22,6 +22,7 @@ namespace DDD.Infra.SQLServer.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+<<<<<<< HEAD
             modelBuilder.Entity("DDD.Infra.SQLServer.AlunoDisciplina", b =>
                 {
                     b.Property<int>("AlunoId")
@@ -37,6 +38,8 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.ToTable("AlunoDisciplinas");
                 });
 
+=======
+>>>>>>> 0d82b0c65a21957ad8cf83aa817da4af690c6d40
             modelBuilder.Entity("DDD.Unimar.Domain.Entities.Aluno", b =>
                 {
                     b.Property<int>("Id")
@@ -99,6 +102,7 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.ToTable("Disciplinas");
                 });
 
+<<<<<<< HEAD
             modelBuilder.Entity("DDD.Infra.SQLServer.AlunoDisciplina", b =>
                 {
                     b.HasOne("DDD.Unimar.Domain.Entities.Aluno", "Aluno")
@@ -118,6 +122,8 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.Navigation("Disciplina");
                 });
 
+=======
+>>>>>>> 0d82b0c65a21957ad8cf83aa817da4af690c6d40
             modelBuilder.Entity("DDD.Unimar.Domain.Entities.Disciplina", b =>
                 {
                     b.HasOne("DDD.Unimar.Domain.Entities.Aluno", null)

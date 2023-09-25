@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DR8PjIfYICwLPOvVaEchQsWqOPJGpk1aqO67BBshfGpUd1i+ChTC90buW5+i9SR+glwmUV5cMD30Eu0mhY9t+A==",
+  "dgSpecHash": "nBknbTUL677TLF1kX7w2A36btftad8Xori0KwCKHCLAraeVTnp7SWOdroJXOwKc31pIPBbKFbdiMXLdOmC1HvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aula\\Source\\Repos\\Unimar_TopicosAvancados\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+  "projectFilePath": "C:\\Users\\Aula\\source\\repos\\Unimar_TopicosAvancados\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aula\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Aula\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

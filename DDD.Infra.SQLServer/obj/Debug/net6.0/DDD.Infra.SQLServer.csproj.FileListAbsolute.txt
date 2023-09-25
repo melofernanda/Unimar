@@ -91,3 +91,12 @@ C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug
 C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
 C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
 C:\Users\Aula\Source\Repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Aula\source\repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\Aula\source\repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\Aula\source\repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Aula\source\repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Aula\source\repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Unimar.Domain.dll
+C:\Users\Aula\source\repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Unimar.Domain.pdb
+C:\Users\Aula\source\repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\Aula\source\repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\Aula\source\repos\Unimar_TopicosAvancados\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll

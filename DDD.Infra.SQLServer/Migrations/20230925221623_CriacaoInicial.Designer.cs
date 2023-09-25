@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DDD.Infra.SQLServer.Migrations
 {
     [DbContext(typeof(SqlContext))]
-    [Migration("20230914155142_CriacaoInicial")]
+    [Migration("20230925221623_CriacaoInicial")]
     partial class CriacaoInicial
     {
         /// <inheritdoc />
@@ -24,6 +24,21 @@ namespace DDD.Infra.SQLServer.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("DDD.Infra.SQLServer.AlunoDisciplina", b =>
+                {
+                    b.Property<int>("AlunoId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("DisciplinaId")
+                        .HasColumnType("int");
+
+                    b.HasKey("AlunoId", "DisciplinaId");
+
+                    b.HasIndex("DisciplinaId");
+
+                    b.ToTable("AlunoDisciplinas");
+                });
 
             modelBuilder.Entity("DDD.Unimar.Domain.Entities.Aluno", b =>
                 {
@@ -85,6 +100,56 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.HasIndex("AlunoId");
 
                     b.ToTable("Disciplinas");
+                });
+
+            modelBuilder.Entity("DDD.Unimar.Domain.Entities.Professor", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("Ativo")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime>("DataCadastro")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Sobrenome")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Professores");
+                });
+
+            modelBuilder.Entity("DDD.Infra.SQLServer.AlunoDisciplina", b =>
+                {
+                    b.HasOne("DDD.Unimar.Domain.Entities.Aluno", "Aluno")
+                        .WithMany()
+                        .HasForeignKey("AlunoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("DDD.Unimar.Domain.Entities.Disciplina", "Disciplina")
+                        .WithMany()
+                        .HasForeignKey("DisciplinaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Aluno");
+
+                    b.Navigation("Disciplina");
                 });
 
             modelBuilder.Entity("DDD.Unimar.Domain.Entities.Disciplina", b =>

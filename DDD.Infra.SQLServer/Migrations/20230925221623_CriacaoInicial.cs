@@ -29,6 +29,23 @@ namespace DDD.Infra.SQLServer.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Professores",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Nome = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Sobrenome = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    DataCadastro = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    Ativo = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Professores", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Disciplinas",
                 columns: table => new
                 {
@@ -90,6 +107,9 @@ namespace DDD.Infra.SQLServer.Migrations
         {
             migrationBuilder.DropTable(
                 name: "AlunoDisciplinas");
+
+            migrationBuilder.DropTable(
+                name: "Professores");
 
             migrationBuilder.DropTable(
                 name: "Disciplinas");

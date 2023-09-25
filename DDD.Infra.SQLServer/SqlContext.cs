@@ -15,6 +15,8 @@ namespace DDD.Infra.SQLServer
 
         public DbSet<Disciplina> Disciplinas { get; set; }
 
+        public DbSet<Professor> Professores { get; set; }
+
         public DbSet<AlunoDisciplina> AlunoDisciplinas { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
